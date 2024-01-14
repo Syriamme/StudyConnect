@@ -26,7 +26,7 @@ Follow these steps to set up the Study Connect project on your local machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/study-connect.git
+   git clone https://github.com/Syriamme/StudyConnect.git
    ```
 
 2. Change into the project directory:
